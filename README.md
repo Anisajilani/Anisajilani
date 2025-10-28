@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **OpenCV**
 
-- 👨‍💻 All of my projects are available at [https://rural-digitalization.vercel.app , https://exampro-4uor.onrender.com](https://rural-digitalization.vercel.app , https://exampro-4uor.onrender.com)
+- 👨‍💻 All of my projects are available at [https://rural-digitalization.vercel.app , https://exampro-4uor.onrender.com]
 
 - 💬 Ask me about **react , tailwindCSS ,Javascript**
 
