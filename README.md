@@ -13,11 +13,11 @@
 
 - 📫 How to reach me **anisajilani09@gmail.com**
 
-- 📄 Know about my experiences [hfhhvhj](hfhhvhj)
+- 📄 Know about my experiences [View My Resume (PDF)](./assets/new.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anisajilani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anisajilani/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anisajilani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anisajilani/" height="30" width="40" /></a>
 <a href="https://instagram.com/@anisajilani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@anisajilani" height="30" width="40" /></a>
 </p>
 
